@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\bin\Debug\ChordGenerator.exe.config
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\bin\Debug\ChordGenerator.exe
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\bin\Debug\ChordGenerator.pdb
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.Form1.resources
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.Properties.Resources.resources
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.exe
+C:\Users\USER\source\repos\ChordGenerator\ChordGenerator\obj\Debug\ChordGenerator.pdb
